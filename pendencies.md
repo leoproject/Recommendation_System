@@ -1,2 +1,1 @@
-Consertar o scrapy 
-Criar um com nova biblioteca.
+My idea is about books 
